@@ -1,0 +1,61 @@
+﻿@model List<ProductoVM>
+
+<div class="row justify-content-between mt-4">
+    <div class="col-4">
+        <h4>Productos</h4>
+    </div>
+    <div class="col-4 text-end">
+        <a href="/Producto/AddEdit" class="btn btn-success"><i class="fa-solid fa-plus"></i> Crear Nuevo</a>
+    </div>
+</div>
+<hr />
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Categoria</th>
+            <th>Precio</th>
+            <th>Stock</th>
+            <th style="width:120px">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Categoria.Nombre</td>
+                <td>@item.Precio</td>
+                <td>@item.Stock</td>
+
+                <td style="width:120px">
+                    <a href="/Producto/AddEdit/@item.ProdcutoId" class="btn btn-sm btn-primary"><i class="fa-solid fa-pen"></i></a>
+                    <button class="btn btn-sm btn-danger" onclick="eliminarItem(@item.ProdcutoId)"><i class="fa-solid fa-trash"></i></button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        function eliminarItem (id){
+
+              Swal.fire({
+              title: "Eliminar esta Categoria?",
+              /*text: "You won't be able to revert this!",*/
+              icon: "warning",
+              showCancelButton: true,
+              confirmButtonColor: "#3085d6",
+              cancelButtonColor: "#d33",
+              confirmButtonText: "Si, eliminar",
+              cancelButtonText: "No, volver"
+            }).then((result) => {
+              if (result.isConfirmed) {
+                   window.location.href = '@Url.Action("Eliminar", "Producto")' + '?id=' + id;
+                }
+            });
+        }
+    </script>
+}

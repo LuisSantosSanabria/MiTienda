@@ -277,3 +277,7 @@ C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\obj\Debug\net9.0\compressed\w0
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\obj\Debug\net9.0\compressed\0afaf0hfoc-snf40drnz1.gz
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\obj\Debug\net9.0\compressed\yyays1sy57-ta7tjlnrp9.gz
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\obj\Debug\net9.0\compressed\6c1n16nnp7-4kk0thh1sk.gz
+C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\obj\Debug\net9.0\compressed\hjyouo0y1h-ev4lah5g0s.gz
+C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\obj\Debug\net9.0\compressed\sxp1jt5k10-g2kqzgeixp.gz
+C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\obj\Debug\net9.0\compressed\esb8vw1071-nj47tp8d8v.gz
+C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\obj\Debug\net9.0\compressed\lxmii6jcyz-0fg11n54e3.gz

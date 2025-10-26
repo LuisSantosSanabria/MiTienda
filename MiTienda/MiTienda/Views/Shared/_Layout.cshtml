@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="~/MiTienda.styles.css" asp-append-version="true" />
     <link href="~/lib/font-awesome/css/all.min.css" rel="stylesheet" />
     <link href="~/lib/sweetalert2/sweetalert2.min.css" rel="stylesheet" />
+    @await RenderSectionAsync("Styles", required: false)
 </head>
 <body>
     <header>
@@ -31,7 +32,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Producto" asp-action="Index">Producto</a>
                         </li>
                     </ul>
                 </div>

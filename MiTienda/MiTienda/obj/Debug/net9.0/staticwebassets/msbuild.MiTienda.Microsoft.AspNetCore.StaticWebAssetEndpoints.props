@@ -24,6 +24,42 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 24 Oct 2025 23:22:06 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23099"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:22:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.qugl9dgw1v.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qugl9dgw1v"},{"Name":"integrity","Value":"sha256-kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg="},{"Name":"label","Value":"_content/MiTienda/images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23099"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:22:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/images/b562318c-ae39-4979-8e95-75f5abd0288b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b562318c-ae39-4979-8e95-75f5abd0288b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23099"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:27:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/images/b562318c-ae39-4979-8e95-75f5abd0288b.qugl9dgw1v.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b562318c-ae39-4979-8e95-75f5abd0288b.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qugl9dgw1v"},{"Name":"integrity","Value":"sha256-kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg="},{"Name":"label","Value":"_content/MiTienda/images/b562318c-ae39-4979-8e95-75f5abd0288b.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23099"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:27:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23099"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:26:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.qugl9dgw1v.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qugl9dgw1v"},{"Name":"integrity","Value":"sha256-kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg="},{"Name":"label","Value":"_content/MiTienda/images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23099"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kkWmGWgbwadHhw8gaUAcmjEs\u002BSJXCsYPRQRpkYXyBEg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:26:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MiTienda/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1271,6 +1307,114 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 24 Oct 2025 23:22:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.4y13c1qqve.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4y13c1qqve"},{"Name":"integrity","Value":"sha256-nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4="},{"Name":"label","Value":"_content/MiTienda/lib/summernote/dist/font/summernote.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6932"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.5l0wa0ssom.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5l0wa0ssom"},{"Name":"integrity","Value":"sha256-\u002BdQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI="},{"Name":"label","Value":"_content/MiTienda/lib/summernote/dist/font/summernote.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8328"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022\u002BdQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14068"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.f2tihsxcuu.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f2tihsxcuu"},{"Name":"integrity","Value":"sha256-pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw="},{"Name":"label","Value":"_content/MiTienda/lib/summernote/dist/font/summernote.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14068"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.hash">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.hash'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3pP0J2SS1s\u002BzIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"32"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00223pP0J2SS1s\u002BzIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.ik8711oedt.hash">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.hash'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ik8711oedt"},{"Name":"integrity","Value":"sha256-3pP0J2SS1s\u002BzIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U="},{"Name":"label","Value":"_content/MiTienda/lib/summernote/dist/font/summernote.hash"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00223pP0J2SS1s\u002BzIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.oxpx4d01ky.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oxpx4d01ky"},{"Name":"integrity","Value":"sha256-jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss="},{"Name":"label","Value":"_content/MiTienda/lib/summernote/dist/font/summernote.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13892"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13892"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BdQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8328"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022\u002BdQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/font/summernote.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\font\summernote.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6932"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/summernote-bs5.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\summernote-bs5.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19640"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/summernote-bs5.min.ev4lah5g0s.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\summernote-bs5.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ev4lah5g0s"},{"Name":"integrity","Value":"sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="},{"Name":"label","Value":"_content/MiTienda/lib/summernote/dist/summernote-bs5.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19640"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/summernote-bs5.min.g2kqzgeixp.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\summernote-bs5.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"g2kqzgeixp"},{"Name":"integrity","Value":"sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="},{"Name":"label","Value":"_content/MiTienda/lib/summernote/dist/summernote-bs5.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"173042"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/summernote-bs5.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\summernote-bs5.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"173042"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/summernote.min.0fg11n54e3.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\summernote.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0fg11n54e3"},{"Name":"integrity","Value":"sha256-XLb9zJB2b1g\u002BVPw5KiP3i0KbncLdseUpaVpeEoWgtmw="},{"Name":"label","Value":"_content/MiTienda/lib/summernote/dist/summernote.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"172524"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022XLb9zJB2b1g\u002BVPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/summernote.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\summernote.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wxPsSfYElt0HPUyAf/IPv/i\u002BpgccSji0HHoc17DAhVE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19502"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wxPsSfYElt0HPUyAf/IPv/i\u002BpgccSji0HHoc17DAhVE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/summernote.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\summernote.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XLb9zJB2b1g\u002BVPw5KiP3i0KbncLdseUpaVpeEoWgtmw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"172524"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022XLb9zJB2b1g\u002BVPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MiTienda/lib/summernote/dist/summernote.min.nj47tp8d8v.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\summernote\dist\summernote.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nj47tp8d8v"},{"Name":"integrity","Value":"sha256-wxPsSfYElt0HPUyAf/IPv/i\u002BpgccSji0HHoc17DAhVE="},{"Name":"label","Value":"_content/MiTienda/lib/summernote/dist/summernote.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19502"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wxPsSfYElt0HPUyAf/IPv/i\u002BpgccSji0HHoc17DAhVE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Oct 2025 15:56:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MiTienda/lib/sweetalert2/sweetalert2.2ipw1uql29.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\sweetalert2\sweetalert2.css'))</AssetFile>

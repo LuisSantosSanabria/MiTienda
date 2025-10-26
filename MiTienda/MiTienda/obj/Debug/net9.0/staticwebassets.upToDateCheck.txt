@@ -38,10 +38,12 @@ C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\bootstrap\dist\css
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\jquery-validation\dist\additional-methods.js
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\css\regular.css
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\js\fontawesome.min.js
+C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\summernote\dist\summernote.min.css
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\css\v4-font-face.css
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\summernote\dist\summernote-bs5.min.css
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\css\brands.css
@@ -53,6 +55,7 @@ C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\bootstrap\dist\css
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\css\v5-font-face.css
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\js\regular.js
+C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\summernote\dist\summernote.min.js
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\js\v4-shims.js
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
@@ -82,6 +85,7 @@ C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\css\r
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\js\regular.min.js
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\js\conflict-detection.js
+C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\summernote\dist\summernote-bs5.min.js
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\js\conflict-detection.min.js
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\font-awesome\css\v4-shims.css
@@ -107,6 +111,9 @@ C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\bootstrap\dist\css
 C:\Users\canelo\Desktop\TpFinal\MiTienda\MiTienda\wwwroot\lib\sweetalert2\sweetalert2.all.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg
+wwwroot\images\b562318c-ae39-4979-8e95-75f5abd0288b.jpg
+wwwroot\images\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -211,6 +218,15 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\summernote\dist\font\summernote.eot
+wwwroot\lib\summernote\dist\font\summernote.hash
+wwwroot\lib\summernote\dist\font\summernote.ttf
+wwwroot\lib\summernote\dist\font\summernote.woff
+wwwroot\lib\summernote\dist\font\summernote.woff2
+wwwroot\lib\summernote\dist\summernote.min.css
+wwwroot\lib\summernote\dist\summernote.min.js
+wwwroot\lib\summernote\dist\summernote-bs5.min.css
+wwwroot\lib\summernote\dist\summernote-bs5.min.js
 wwwroot\lib\sweetalert2\sweetalert2.all.js
 wwwroot\lib\sweetalert2\sweetalert2.all.min.js
 wwwroot\lib\sweetalert2\sweetalert2.css

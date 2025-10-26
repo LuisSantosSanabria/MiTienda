@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MiTienda.Context;
+using System.Linq.Expressions;
 
 namespace MiTienda.Repositories
 {
@@ -9,6 +10,15 @@ namespace MiTienda.Repositories
         //sirve para obtener todos los registros de un tipo de entidad de forma asíncrona
         {
             return await _dbContext.Set<TEntity>().ToListAsync();
+        }
+
+        public async Task<IEnumerable<TEntity>> GetAllAsync(Expression<Func<TEntity, object>>[]includes)
+        //sirve para obtener los dif productos con otra entidad
+        {
+            // la linea de abajo es un select*Producto
+            IQueryable<TEntity> query = _dbContext.Set<TEntity>();
+            foreach (var include in includes) query = query.Include(include);
+            return await query.ToListAsync();
         }
 
         public async Task AddAsync(TEntity entity)

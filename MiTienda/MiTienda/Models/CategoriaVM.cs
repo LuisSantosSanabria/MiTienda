@@ -5,6 +5,7 @@ namespace MiTienda.Models
     public class CategoriaVM
     {
         public int CategoriaId { get; set; }
+        [Required]
         public string Nombre { get; set; }
     }
 }

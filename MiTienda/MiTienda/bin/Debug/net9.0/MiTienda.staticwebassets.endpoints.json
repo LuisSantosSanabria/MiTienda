@@ -897,6 +897,252 @@
       ]
     },
     {
+      "Route": "images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg",
+      "AssetFile": "images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:22:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        }
+      ]
+    },
+    {
+      "Route": "images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.qugl9dgw1v.jpg",
+      "AssetFile": "images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:22:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qugl9dgw1v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/b562318c-ae39-4979-8e95-75f5abd0288b.jpg",
+      "AssetFile": "images/b562318c-ae39-4979-8e95-75f5abd0288b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:27:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        }
+      ]
+    },
+    {
+      "Route": "images/b562318c-ae39-4979-8e95-75f5abd0288b.qugl9dgw1v.jpg",
+      "AssetFile": "images/b562318c-ae39-4979-8e95-75f5abd0288b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:27:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qugl9dgw1v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/b562318c-ae39-4979-8e95-75f5abd0288b.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
+      "AssetFile": "images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:26:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        }
+      ]
+    },
+    {
+      "Route": "images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.qugl9dgw1v.jpg",
+      "AssetFile": "images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:26:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qugl9dgw1v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg"
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js.gz",
       "Selectors": [
@@ -29941,6 +30187,1608 @@
         {
           "Name": "label",
           "Value": "lib/jquery/dist/jquery.slim.min.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.4y13c1qqve.woff2",
+      "AssetFile": "lib/summernote/dist/font/summernote.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4y13c1qqve"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.woff2"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.5l0wa0ssom.woff",
+      "AssetFile": "lib/summernote/dist/font/summernote.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+dQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5l0wa0ssom"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+dQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.woff"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.eot",
+      "AssetFile": "lib/summernote/dist/font/summernote.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.f2tihsxcuu.eot",
+      "AssetFile": "lib/summernote/dist/font/summernote.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f2tihsxcuu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.eot"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.hash",
+      "AssetFile": "lib/summernote/dist/font/summernote.hash",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3pP0J2SS1s+zIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3pP0J2SS1s+zIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.ik8711oedt.hash",
+      "AssetFile": "lib/summernote/dist/font/summernote.hash",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3pP0J2SS1s+zIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ik8711oedt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3pP0J2SS1s+zIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.hash"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.oxpx4d01ky.ttf",
+      "AssetFile": "lib/summernote/dist/font/summernote.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxpx4d01ky"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.ttf",
+      "AssetFile": "lib/summernote/dist/font/summernote.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.woff",
+      "AssetFile": "lib/summernote/dist/font/summernote.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+dQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+dQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.woff2",
+      "AssetFile": "lib/summernote/dist/font/summernote.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.css",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000275178866"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.css",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.css.gz",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.ev4lah5g0s.css",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000275178866"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ev4lah5g0s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.ev4lah5g0s.css",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ev4lah5g0s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.ev4lah5g0s.css.gz",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ev4lah5g0s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.g2kqzgeixp.js",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000025047590"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g2kqzgeixp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.g2kqzgeixp.js",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g2kqzgeixp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.g2kqzgeixp.js.gz",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g2kqzgeixp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.js",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000025047590"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.js",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.js.gz",
+      "AssetFile": "lib/summernote/dist/summernote-bs5.min.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.0fg11n54e3.js",
+      "AssetFile": "lib/summernote/dist/summernote.min.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000025125628"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0fg11n54e3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.0fg11n54e3.js",
+      "AssetFile": "lib/summernote/dist/summernote.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0fg11n54e3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.0fg11n54e3.js.gz",
+      "AssetFile": "lib/summernote/dist/summernote.min.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0fg11n54e3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.js.gz"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.css",
+      "AssetFile": "lib/summernote/dist/summernote.min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000277854960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.css",
+      "AssetFile": "lib/summernote/dist/summernote.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.css.gz",
+      "AssetFile": "lib/summernote/dist/summernote.min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.js",
+      "AssetFile": "lib/summernote/dist/summernote.min.js.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000025125628"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.js",
+      "AssetFile": "lib/summernote/dist/summernote.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.js.gz",
+      "AssetFile": "lib/summernote/dist/summernote.min.js.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.nj47tp8d8v.css",
+      "AssetFile": "lib/summernote/dist/summernote.min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000277854960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj47tp8d8v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.nj47tp8d8v.css",
+      "AssetFile": "lib/summernote/dist/summernote.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj47tp8d8v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.nj47tp8d8v.css.gz",
+      "AssetFile": "lib/summernote/dist/summernote.min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj47tp8d8v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.css.gz"
         }
       ]
     },

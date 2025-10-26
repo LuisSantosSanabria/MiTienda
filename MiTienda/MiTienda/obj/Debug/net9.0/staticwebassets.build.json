@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5OD31qo0dxe3PkE8A5lg8a60IQB8rl0Ugt53zwZ54qQ=",
+  "Hash": "u+3zsXDB5bGUCa292XfKTlOWX1gCU6aOqoBsbmEbbWg=",
   "Source": "MiTienda",
   "BasePath": "_content/MiTienda",
   "Mode": "Default",
@@ -899,6 +899,27 @@
       "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js"
     },
     {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\esb8vw1071-nj47tp8d8v.gz",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/summernote.min#[.{fingerprint=nj47tp8d8v}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6maygbcl2p",
+      "Integrity": "PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.css"
+    },
+    {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\fqygq39whh-utrc60xe8f.gz",
       "SourceId": "MiTienda",
       "SourceType": "Discovered",
@@ -981,6 +1002,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hjyouo0y1h-ev4lah5g0s.gz",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/summernote-bs5.min#[.{fingerprint=ev4lah5g0s}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9atmurdtwn",
+      "Integrity": "wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.css"
     },
     {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\is5kv1it2h-kbrnm935zg.gz",
@@ -1212,6 +1254,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\lxmii6jcyz-0fg11n54e3.gz",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/summernote.min#[.{fingerprint=0fg11n54e3}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vv6gzccj2a",
+      "Integrity": "27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.js"
     },
     {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\m9ewpy2z82-r4e9w2rdcm.gz",
@@ -1823,6 +1886,27 @@
       "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js"
     },
     {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\sxp1jt5k10-g2kqzgeixp.gz",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/summernote-bs5.min#[.{fingerprint=g2kqzgeixp}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dmu86zr521",
+      "Integrity": "BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.js"
+    },
+    {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\tb0j6a6buj-parinopxbm.gz",
       "SourceId": "MiTienda",
       "SourceType": "Discovered",
@@ -2388,6 +2472,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qugl9dgw1v",
+      "Integrity": "kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b562318c-ae39-4979-8e95-75f5abd0288b.jpg",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/b562318c-ae39-4979-8e95-75f5abd0288b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qugl9dgw1v",
+      "Integrity": "kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b562318c-ae39-4979-8e95-75f5abd0288b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qugl9dgw1v",
+      "Integrity": "kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg"
     },
     {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\js\\site.js",
@@ -4574,6 +4721,195 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.eot",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/font/summernote#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f2tihsxcuu",
+      "Integrity": "pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\summernote\\dist\\font\\summernote.eot"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.hash",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/font/summernote#[.{fingerprint}]?.hash",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ik8711oedt",
+      "Integrity": "3pP0J2SS1s+zIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\summernote\\dist\\font\\summernote.hash"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.ttf",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/font/summernote#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oxpx4d01ky",
+      "Integrity": "jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\summernote\\dist\\font\\summernote.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.woff",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/font/summernote#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5l0wa0ssom",
+      "Integrity": "+dQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\summernote\\dist\\font\\summernote.woff"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.woff2",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/font/summernote#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4y13c1qqve",
+      "Integrity": "nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\summernote\\dist\\font\\summernote.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.css",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/summernote.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nj47tp8d8v",
+      "Integrity": "wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\summernote\\dist\\summernote.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.js",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/summernote.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0fg11n54e3",
+      "Integrity": "XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\summernote\\dist\\summernote.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.css",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/summernote-bs5.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ev4lah5g0s",
+      "Integrity": "6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.js",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "lib/summernote/dist/summernote-bs5.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g2kqzgeixp",
+      "Integrity": "6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.js"
+    },
+    {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\sweetalert2\\sweetalert2.all.js",
       "SourceId": "MiTienda",
       "SourceType": "Discovered",
@@ -5399,6 +5735,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        }
+      ]
+    },
+    {
+      "Route": "images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.qugl9dgw1v.jpg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qugl9dgw1v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        }
+      ]
+    },
+    {
+      "Route": "images/b562318c-ae39-4979-8e95-75f5abd0288b.jpg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b562318c-ae39-4979-8e95-75f5abd0288b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:27:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        }
+      ]
+    },
+    {
+      "Route": "images/b562318c-ae39-4979-8e95-75f5abd0288b.qugl9dgw1v.jpg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b562318c-ae39-4979-8e95-75f5abd0288b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:27:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qugl9dgw1v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b562318c-ae39-4979-8e95-75f5abd0288b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        }
+      ]
+    },
+    {
+      "Route": "images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:26:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
+        }
+      ]
+    },
+    {
+      "Route": "images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.qugl9dgw1v.jpg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:26:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qugl9dgw1v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg="
         }
       ]
     },
@@ -34447,6 +35029,1608 @@
         {
           "Name": "integrity",
           "Value": "sha256-1HkjQSVuV0/ji/X/lGeDTHeagBS0BwopMrHDQuwqgtU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.4y13c1qqve.woff2",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4y13c1qqve"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.5l0wa0ssom.woff",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+dQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5l0wa0ssom"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+dQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.eot",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.f2tihsxcuu.eot",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f2tihsxcuu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pxQtj2mqXgJ5OP506x4JrfSohy5Ajn/6diTPEMNslMw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.hash",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.hash",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3pP0J2SS1s+zIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3pP0J2SS1s+zIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.ik8711oedt.hash",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.hash",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3pP0J2SS1s+zIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ik8711oedt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.hash"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3pP0J2SS1s+zIrdRFYsI/s2IL/cZGNNXIN2u/2vKI4U="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.oxpx4d01ky.ttf",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oxpx4d01ky"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/font/summernote.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.ttf",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jBlzf0mGKo5afz6bCbXjOloA0JZGbrRYF26YiT4H5Ss="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.woff",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+dQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+dQLOA4m6mwfV53UfsKNqcjrQUiCZR4K26GZuzH4zGI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/font/summernote.woff2",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nHyxpOE0HOJDmPd0LKnqMBTaw4gpqqDMLQx0qBlZFd4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.0fg11n54e3.js",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\lxmii6jcyz-0fg11n54e3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000025125628"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39799"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0fg11n54e3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.0fg11n54e3.js",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0fg11n54e3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.0fg11n54e3.js.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\lxmii6jcyz-0fg11n54e3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0fg11n54e3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.css",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\esb8vw1071-nj47tp8d8v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000277854960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.css",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.css.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\esb8vw1071-nj47tp8d8v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.js",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\lxmii6jcyz-0fg11n54e3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000025125628"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39799"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.js",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XLb9zJB2b1g+VPw5KiP3i0KbncLdseUpaVpeEoWgtmw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.js.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\lxmii6jcyz-0fg11n54e3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-27n5nur+wLcrPYTRviaAOEh+ass9hMLIVaj2jXslJOI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.nj47tp8d8v.css",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\esb8vw1071-nj47tp8d8v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000277854960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj47tp8d8v"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.nj47tp8d8v.css",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj47tp8d8v"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxPsSfYElt0HPUyAf/IPv/i+pgccSji0HHoc17DAhVE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote.min.nj47tp8d8v.css.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\esb8vw1071-nj47tp8d8v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj47tp8d8v"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PoZ9u84mkSdFXsvlYfPosGnNp7J/oA6IXjU3xHy8Ec8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.css",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hjyouo0y1h-ev4lah5g0s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000275178866"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3633"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.css",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.css.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hjyouo0y1h-ev4lah5g0s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.ev4lah5g0s.css",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hjyouo0y1h-ev4lah5g0s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000275178866"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3633"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ev4lah5g0s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.ev4lah5g0s.css",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ev4lah5g0s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6omjeo6xlxgxgunY2/gcd3O06HlEf0WGZYVv57B1Jho="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.ev4lah5g0s.css.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hjyouo0y1h-ev4lah5g0s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ev4lah5g0s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wXe9W8yrLhgNjenYqy/IQlryAZSHVDM+rhjleZ3H1xs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.g2kqzgeixp.js",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\sxp1jt5k10-g2kqzgeixp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000025047590"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39923"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g2kqzgeixp"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.g2kqzgeixp.js",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g2kqzgeixp"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.g2kqzgeixp.js.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\sxp1jt5k10-g2kqzgeixp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g2kqzgeixp"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/summernote/dist/summernote-bs5.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.js",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\sxp1jt5k10-g2kqzgeixp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000025047590"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39923"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.js",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HTZQ0cllgXIHGvJ3s6mUitHqohE1oshGQsEuXLO7Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/summernote/dist/summernote-bs5.min.js.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\sxp1jt5k10-g2kqzgeixp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Oct 2025 15:56:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BW8YsyvZBxMXgzAf1Xi7aKW5B525IOm5yhDhnkjMkW0="
         }
       ]
     },

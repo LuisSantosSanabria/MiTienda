@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg",
+      "PackagePath": "staticwebassets\\images\\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b562318c-ae39-4979-8e95-75f5abd0288b.jpg",
+      "PackagePath": "staticwebassets\\images\\b562318c-ae39-4979-8e95-75f5abd0288b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
+      "PackagePath": "staticwebassets\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg"
+    },
+    {
       "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -427,6 +439,42 @@
     {
       "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\lib\\summernote\\dist\\font\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.hash",
+      "PackagePath": "staticwebassets\\lib\\summernote\\dist\\font\\summernote.hash"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\lib\\summernote\\dist\\font\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\lib\\summernote\\dist\\font\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\lib\\summernote\\dist\\font\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\dist\\summernote-bs5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\dist\\summernote-bs5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\dist\\summernote.min.css"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\dist\\summernote.min.js"
     },
     {
       "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\sweetalert2\\sweetalert2.all.js",

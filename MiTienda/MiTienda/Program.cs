@@ -19,6 +19,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 //le dice al sistema cm crear tus clases y pasarlas automáticamente donde se necesiten.
 builder.Services.AddScoped(typeof(GenericRepository<>));
 builder.Services.AddScoped<CategoriaService>();
+builder.Services.AddScoped<ProductService>();
 
 var app = builder.Build();
 
