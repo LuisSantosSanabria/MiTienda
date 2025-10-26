@@ -147,5 +147,32 @@ namespace MiTienda.Services
 
             await _productRepository.DeletAsync(producto!);
         }
+
+        public async Task<IEnumerable<ProductoVM>> GetCatalogoAsync(int categoriaId=0, string buscar="")
+        {
+
+            var condiciones = new List<Expression<Func<Producto, bool>>>
+            {
+                x => x.Stock > 0
+            };
+
+            if (categoriaId != 0) condiciones.Add(x => x.CategoriaId == categoriaId);
+            if (string.IsNullOrEmpty(buscar)) condiciones.Add(x => x.Nombre.Contains(buscar));
+
+            var productos = await _productRepository.GetAllAsync(conditions : condiciones.ToArray());
+
+            var productsVm = productos.Select(item =>
+            new ProductoVM
+            {
+                ProdcutoId = item.ProdcutoId,
+                Nombre = item.Nombre,
+                Descripcion = item.Descripcion,
+                Precio = item.Precio,
+                Stock = item.Stock,
+                ImgNombre = item.ImgNombre,
+            }).ToList();
+
+            return productsVm;
+        }
     }
 }

@@ -12,12 +12,21 @@ namespace MiTienda.Repositories
             return await _dbContext.Set<TEntity>().ToListAsync();
         }
 
-        public async Task<IEnumerable<TEntity>> GetAllAsync(Expression<Func<TEntity, object>>[]includes)
+        public async Task<IEnumerable<TEntity>> GetAllAsync(
+            Expression<Func<TEntity, bool>>[]? conditions = null,
+            Expression<Func<TEntity, object>>[]? includes = null
+            )
         //sirve para obtener los dif productos con otra entidad
         {
             // la linea de abajo es un select*Producto
             IQueryable<TEntity> query = _dbContext.Set<TEntity>();
+
+            if (conditions is not null)
+                foreach (var condition in conditions) query = query.Where(condition);
+
+            if (includes is not null)
             foreach (var include in includes) query = query.Include(include);
+
             return await query.ToListAsync();
         }
 

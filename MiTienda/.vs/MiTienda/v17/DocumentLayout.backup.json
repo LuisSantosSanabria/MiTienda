@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\producto\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\producto\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\models\\catalogovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\models\\catalogovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Producto\\AddEdit.cshtml",
-              "RelativeDocumentMoniker": "MiTienda\\Views\\Producto\\AddEdit.cshtml",
-              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Producto\\AddEdit.cshtml",
-              "RelativeToolTip": "MiTienda\\Views\\Producto\\AddEdit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-26T15:57:42.083Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -43,15 +42,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiTienda\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:20:51.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogoVM.cs",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Models\\CatalogoVM.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Models\\CatalogoVM.cs",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Models\\CatalogoVM.cs",
+              "RelativeToolTip": "MiTienda\\Models\\CatalogoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:18:19.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "MiTienda\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:03:06.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Services\\ProductService.cs",
+              "RelativeToolTip": "MiTienda\\Services\\ProductService.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAhwJYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:58:35.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MiTienda\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MiTienda\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAfAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiTienda\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiTienda\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-26T15:58:58.98Z",
+              "WhenOpened": "2025-10-26T16:16:23.425Z",
               "EditorCaption": ""
             }
           ]

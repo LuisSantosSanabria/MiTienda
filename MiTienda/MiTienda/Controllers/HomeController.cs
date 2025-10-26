@@ -1,21 +1,31 @@
 using System.Diagnostics;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MiTienda.Models;
+using MiTienda.Services;
 
 namespace MiTienda.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(
+        CategoriaService _categoriaService,
+        ProductService _productService
+        ): Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        public async Task<IActionResult> Index()
         {
-            _logger = logger;
+            var categorias = await _categoriaService.GetAllAsync();
+            var productos = await _productService.GetCatalogoAsync();
+            var catalogo = new CatalogoVM { Categorias = categorias, Producto = productos };
+            return View(catalogo);
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> FilterByCategory(int id, string nombre)
         {
-            return View();
+            var categorias = await _categoriaService.GetAllAsync();
+            var productos = await _productService.GetCatalogoAsync(categoriaId:id);
+
+            var catalogo = new CatalogoVM { Categorias = categorias, Producto = productos, filterBy=nombre };
+            return View("Index", catalogo);
         }
 
         public IActionResult Privacy()
