@@ -1,0 +1,36 @@
+﻿@model CategoriaVM;
+
+@{
+    var titulo = Model.CategoriaId == 0 ? "Nueva Categoria" : "Editar Categoria";
+    var btnAcccion = Model.CategoriaId == 0 ? "Agregar" : "Guardar";
+}
+
+<div class="row">
+    <div class="col-6">
+        <h2>@titulo</h2>
+        <hr />
+        <form action="/Categoria/AddEdit" method="post">
+            <input type="hidden" asp-for="CategoriaId"/>
+
+            <div class="mb-3">
+                <label class="form-label">Nombre</label>
+                <input type="tel" class="form-control" asp-for="Nombre" autocomplete="off">
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            @if(ViewBag.message != null)
+            {
+                <div class="alert alert-success" role="alert">
+                    @ViewBag.message
+                </div>
+            }
+
+            <div class="d-grid gap-2 d-md-block mt-4">
+                <button class="btn btn-primary" type="submit">@btnAcccion</button>
+                <a href="/Categoria/Index" class="btn btn-warning">Volver</a>
+            </div>
+
+        </form>
+    </div>
+
+</div>

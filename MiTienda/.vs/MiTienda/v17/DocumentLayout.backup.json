@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiTienda\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiTienda\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T00:55:48.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "MiTienda\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "MiTienda\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T00:25:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiTienda\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "MiTienda\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T19:30:48.883Z",
+              "EditorCaption": ""
             }
           ]
         }
