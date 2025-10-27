@@ -1,0 +1,18 @@
+﻿@using MiTienda.Utilities;
+
+@{
+    int CarritoCount = 0;
+    if(Context.Session.Get<List<CarritoVm>>("Carrito") != null)
+    {
+        var carrito = Context.Session.Get<List<CarritoVm>>("Carrito");
+        CarritoCount = carrito.Count();
+    }
+
+    <li class="nav-item ms-auto">
+    <a class="btn btn-outline-dark" href="/Home/ViewCarrito">
+         <i class="fa-solid fa-cart-shopping"></i>
+         Carrito
+         <span class="badge bg-dark text-white ms-1 rounded-pill">@CarritoCount</span>
+    </a>
+    </li>
+}

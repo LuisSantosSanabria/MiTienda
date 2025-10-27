@@ -157,7 +157,7 @@ namespace MiTienda.Services
             };
 
             if (categoriaId != 0) condiciones.Add(x => x.CategoriaId == categoriaId);
-            if (string.IsNullOrEmpty(buscar)) condiciones.Add(x => x.Nombre.Contains(buscar));
+            if (!string.IsNullOrEmpty(buscar)) condiciones.Add(x => x.Nombre.Contains(buscar));
 
             var productos = await _productRepository.GetAllAsync(conditions : condiciones.ToArray());
 
