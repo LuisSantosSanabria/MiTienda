@@ -1,0 +1,38 @@
+﻿@model List<PedidoVM>
+
+<div class="row justify-content-between mt-4">
+    <div class="col-4">
+        <h4>Mis Pedidos</h4>
+    </div>
+</div>
+<hr />
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Datos del Pedido</th>
+            <th>Total</th>
+            <th>Articulos</th>
+            <th style="width:120px">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.PedidoDatos</td>
+                <td>@item.TotalPedido</td>
+                <td>
+                    <ol class="list-group list-group-numbered">
+                        @foreach(var element in item.Articulos)
+                        {
+                            <li class="list-group-item">
+                                @(element.NombreProducto + "+" + element.Cantidad + "x" + element.Precio)
+                            </li>
+                        }
+                    </ol>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

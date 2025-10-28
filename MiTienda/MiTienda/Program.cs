@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using MiTienda.Context;
 using MiTienda.Repositories;
@@ -18,11 +19,25 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 //Le dicen a ASP.NET Core que cree y gestione automáticamente las instancias de esas clases (inyección de dependencias)
 //le dice al sistema cm crear tus clases y pasarlas automáticamente donde se necesiten.
 builder.Services.AddScoped(typeof(GenericRepository<>));
+builder.Services.AddScoped<OrderRepository>();
 builder.Services.AddScoped<CategoriaService>();
 builder.Services.AddScoped<ProductService>();
+builder.Services.AddScoped<PedidoService>();
+builder.Services.AddScoped<UsuarioService>();
 
 //guardar inf temporal
 builder.Services.AddSession (options => { options.IdleTimeout = TimeSpan.FromMinutes(30); });
+
+// autenticacion
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(
+    opciones =>
+    {
+        opciones.LoginPath = "/Registro/Login";
+        opciones.ExpireTimeSpan = TimeSpan.FromMinutes(30);
+
+        opciones.AccessDeniedPath = "/Home/Error"; 
+    }
+    );
 
 var app = builder.Build();
 

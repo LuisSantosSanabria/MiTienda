@@ -30,7 +30,8 @@ namespace MiTienda.Repositories
             return await query.ToListAsync();
         }
 
-        public async Task AddAsync(TEntity entity)
+        //virtual para sobreescribir por clases hijas como OrderRepository
+        public virtual async Task AddAsync(TEntity entity)
         {
             await _dbContext.Set<TEntity>().AddAsync(entity);
             await _dbContext.SaveChangesAsync();
@@ -52,5 +53,20 @@ namespace MiTienda.Repositories
             _dbContext.Set<TEntity>().Remove(entity);
             await _dbContext.SaveChangesAsync();
         }
+
+        // Usuario existe?
+        public async Task<TEntity?> GetByFilter(
+            Expression<Func<TEntity, bool>>[] conditions)
+        //sirve para obtener los dif productos con otra entidad
+        {
+            // la linea de abajo es un select*Producto
+            IQueryable<TEntity> query = _dbContext.Set<TEntity>();
+
+            if (conditions is not null)
+                foreach (var condition in conditions) query = query.Where(condition);
+
+            return await query.FirstOrDefaultAsync(); 
+        }
+
     }
 }

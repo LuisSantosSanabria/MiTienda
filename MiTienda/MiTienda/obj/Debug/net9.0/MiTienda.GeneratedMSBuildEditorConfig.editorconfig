@@ -48,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWxsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/canelo/Desktop/TpFinal/MiTienda/MiTienda/Views/Home/VentaCompletada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZW50YUNvbXBsZXRhZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/canelo/Desktop/TpFinal/MiTienda/MiTienda/Views/Home/ViewCarrito.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3Q2Fycml0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,6 +64,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/canelo/Desktop/TpFinal/MiTienda/MiTienda/Views/Registro/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/canelo/Desktop/TpFinal/MiTienda/MiTienda/Views/Registro/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cm9cUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/canelo/Desktop/TpFinal/MiTienda/MiTienda/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -70,6 +82,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/canelo/Desktop/TpFinal/MiTienda/MiTienda/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/canelo/Desktop/TpFinal/MiTienda/MiTienda/Views/Usuario/MiPedido.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNaVBlZGlkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/canelo/Desktop/TpFinal/MiTienda/MiTienda/Views/_ViewImports.cshtml]

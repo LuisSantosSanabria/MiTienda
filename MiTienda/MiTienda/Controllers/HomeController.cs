@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MiTienda.Models;
@@ -9,7 +10,8 @@ namespace MiTienda.Controllers
 {
     public class HomeController(
         CategoriaService _categoriaService,
-        ProductService _productService
+        ProductService _productService,
+        PedidoService _pedidoService
         ): Controller
     {
         public async Task<IActionResult> Index()
@@ -94,7 +96,21 @@ namespace MiTienda.Controllers
             return View("ViewCarrito", carrito);
         }
 
-        public IActionResult Privacy()
+        [HttpPost]
+        public async Task<IActionResult> Pagar()
+        {
+            var carrito = HttpContext.Session.Get<List<CarritoVm>>("Carrito");
+
+            //obtenr el id que se registr a la DB
+            var usuarioId = HttpContext.User.FindFirst(ClaimTypes.NameIdentifier)!.Value;
+            await _pedidoService.AddAsync(carrito,int.Parse(usuarioId));
+
+            HttpContext.Session.Remove("Carrito");
+
+            return View("VentaCompletada");
+        }
+
+        public IActionResult VentaCompletada()
         {
             return View();
         }

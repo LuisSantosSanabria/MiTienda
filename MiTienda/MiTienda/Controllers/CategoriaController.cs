@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using MiTienda.Models;
 using MiTienda.Services;
@@ -6,6 +7,7 @@ using MiTienda.Services;
 
 namespace MiTienda.Controllers
 {
+    [Authorize(Roles ="Adm")] // para que solo el adm entre a ediat prod
     public class CategoriaController(CategoriaService _categoriaService) : Controller
     {
         public async Task<IActionResult> Index()

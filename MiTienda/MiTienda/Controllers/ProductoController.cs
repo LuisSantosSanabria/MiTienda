@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using MiTienda.Models;
 using MiTienda.Services;
 
 namespace MiTienda.Controllers
 {
+    [Authorize(Roles = "Adm")]
     public class ProductoController(ProductService _productService) : Controller
     {
         public async Task<IActionResult> Index()
