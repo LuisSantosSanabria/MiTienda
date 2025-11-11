@@ -33,6 +33,44 @@
                                 <span asp-validation-for="Email" class="text-danger"></span>
                             </div>
 
+                         <!--
+                                   <div class="mb-3">
+                                   <label class="form-label">Tipo</label>
+                                   <select class="form-select" asp-for="Tipo">
+                                       <option value="">-- Seleccione un tipo --</option>
+                                       <option value="Adm">Administrador</option>
+                                       <option value="Cliente">Cliente</option>
+                                   </select>
+                                   <span asp-validation-for="Tipo" class="text-danger"></span>
+                               </div>
+                         -->
+
+@*                             <div class="mb-3">
+                                <label class="form-label">Tipo</label>
+                                <select class="form-select" asp-for="Tipo" id="tipoSelect">
+                                    <option value="">-- Seleccione un tipo --</option>
+                                    <option value="Adm">Administrador</option>
+                                    <option value="Cliente">Cliente</option>
+                                </select>
+                                <span asp-validation-for="Tipo" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3" id="adminPasswordDiv" style="display:none;">
+                                <label class="form-label">Contraseña de administrador</label>
+                                <input type="password" class="form-control" id="adminPasswordInput" name="adminPasswordInput" placeholder="Ingrese la contraseña especial">
+                            </div>
+
+                            <script>
+                                // Mostrar el campo solo si el tipo seleccionado es "Adm"
+                                document.getElementById("tipoSelect").addEventListener("change", function () {
+                                    const adminDiv = document.getElementById("adminPasswordDiv");
+                                    adminDiv.style.display = this.value === "Adm" ? "block" : "none";
+                                });
+                            </script> *@
+
+
+
+
                             <div class="mb-3">
                                 <label class="form-label">Clave</label>
                                 <input class="form-control" type="password" asp-for="Clave" />

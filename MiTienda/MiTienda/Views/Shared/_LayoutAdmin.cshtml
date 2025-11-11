@@ -1,0 +1,42 @@
+﻿@using System.Security.Claims
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Panel de Administración - MiTienda</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link href="~/lib/font-awesome/css/all.min.css" rel="stylesheet" />
+    <link href="~/lib/sweetalert2/sweetalert2.min.css" rel="stylesheet" />
+    @await RenderSectionAsync("Styles", required: false)
+</head>
+<body class="bg-light">
+
+    <!-- Navbar superior -->
+    <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/Home/Index">MiTienda - Admin</a>
+            <div class="d-flex">
+                <a class="nav-link text-white" href="/Registro/CerrarSesion">Cerrar sesión</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Contenido principal centrado -->
+    <div class="container my-5">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10 col-lg-9 bg-white shadow-sm rounded-4 p-4">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/sweetalert2/sweetalert2.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

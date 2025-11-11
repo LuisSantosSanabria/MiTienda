@@ -36,41 +36,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\65f206e8-9325-407d-bf4e-1b3ba3957da7.png'))">
       <SourceType>Package</SourceType>
       <SourceId>MiTienda</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MiTienda</BasePath>
-      <RelativePath>images/0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg</RelativePath>
+      <RelativePath>images/65f206e8-9325-407d-bf4e-1b3ba3957da7.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qugl9dgw1v</Fingerprint>
-      <Integrity>kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=</Integrity>
+      <Fingerprint>l09l9l10j7</Fingerprint>
+      <Integrity>G7IcUAq3Re7HIym2hKALKp+GMFHcb/cJIDv6I/A73oY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0fd0c4dc-15b7-4ed5-b1d9-8abc064aa1d3.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b562318c-ae39-4979-8e95-75f5abd0288b.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>MiTienda</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/MiTienda</BasePath>
-      <RelativePath>images/b562318c-ae39-4979-8e95-75f5abd0288b.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qugl9dgw1v</Fingerprint>
-      <Integrity>kkWmGWgbwadHhw8gaUAcmjEs+SJXCsYPRQRpkYXyBEg=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b562318c-ae39-4979-8e95-75f5abd0288b.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\65f206e8-9325-407d-bf4e-1b3ba3957da7.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg'))">
       <SourceType>Package</SourceType>
@@ -89,6 +71,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d83010a4-55b3-4323-a628-cbc952e6486f.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MiTienda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MiTienda</BasePath>
+      <RelativePath>images/d83010a4-55b3-4323-a628-cbc952e6486f.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>w6srp00428</Fingerprint>
+      <Integrity>iH/A7x//tLmjj7I5PMRLWdMBBYrZp64HzCvZKJrmRWc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d83010a4-55b3-4323-a628-cbc952e6486f.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fd12a5c2-1451-4bc8-8dc7-f54a9ce6df42.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MiTienda</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MiTienda</BasePath>
+      <RelativePath>images/fd12a5c2-1451-4bc8-8dc7-f54a9ce6df42.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>w89wmqjc5q</Fingerprint>
+      <Integrity>MFv6rou3pp6q9Lr624rpo0Fkhe8DmRMoUCEFmtBPZVg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fd12a5c2-1451-4bc8-8dc7-f54a9ce6df42.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>

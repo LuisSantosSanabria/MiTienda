@@ -49,7 +49,17 @@ namespace MiTienda.Controllers
                     new AuthenticationProperties(){ AllowRefresh = true }
                     );
 
-                return RedirectToAction("Index", "Home");
+                if (encontrado.Tipo == "Adm")
+                {
+                    // Si es administrador → lo llevamos al panel
+                    return RedirectToAction("Index", "Admin");
+                }
+                else
+                {
+                    // Si es cliente → lo llevamos a la tienda normal
+                    return RedirectToAction("Index", "Home");
+                }
+
             }
         }
         public IActionResult Registro()
@@ -76,6 +86,47 @@ namespace MiTienda.Controllers
 
             return View();
         }
+
+        //validacion extra para que solo se pueda registar el adn mediante una clave especial
+
+        //[HttpPost]
+        //public async Task<IActionResult> Registro(UsuarioVM viewmodel)
+        //{
+        //    if (!ModelState.IsValid) return View(viewmodel);
+
+        //    try
+        //    {
+        //        //si el usuario eligió ser administrador
+        //        if (viewmodel.Tipo == "Adm")
+        //        {
+        //            // Recuperamos la contraseña especial desde el formulario
+        //            string adminPassword = Request.Form["adminPasswordInput"];
+
+        //            // Validamos la contraseña
+        //            if (adminPassword != "TrabajoFinal2025")
+        //            {
+        //                ViewBag.message = "Contraseña de administrador incorrecta.";
+        //                ViewBag.Class = "alert-danger";
+        //                return View(viewmodel);
+        //            }
+        //        }
+
+        //        //si esta todo ok creamos el usuario
+        //        await _usuarioService.Registro(viewmodel);
+        //        ViewBag.message = "Tu cuenta fue creada correctamente.";
+        //        ViewBag.Class = "alert-success";
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        ViewBag.message = ex.Message;
+        //        ViewBag.Class = "alert-danger";
+        //    }
+
+        //    return View(viewmodel);
+        //}
+
+
+
 
         public async Task<IActionResult> CerrarSesion()
         {

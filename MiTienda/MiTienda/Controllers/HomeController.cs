@@ -16,6 +16,12 @@ namespace MiTienda.Controllers
     {
         public async Task<IActionResult> Index()
         {
+            // si es adm
+            if (User.Identity!.IsAuthenticated && User.IsInRole("Adm"))
+            {
+                return RedirectToAction("Index", "Admin");
+            }
+
             var categorias = await _categoriaService.GetAllAsync();
             var productos = await _productService.GetCatalogoAsync();
             var catalogo = new CatalogoVM { Categorias = categorias, Producto = productos };
@@ -51,14 +57,33 @@ namespace MiTienda.Controllers
 
         //agregar carrito
         [HttpPost]
-        public async Task<IActionResult>AddICarrito(int productId, int quantity)
+        public async Task<IActionResult> AddICarrito(int productId, int quantity)
         {
+            // Verificar si el usuario está autenticado
+            if (!User.Identity!.IsAuthenticated)
+            {
+                TempData["LoginMessage"] = "Debes iniciar sesión para agregar productos al carrito.";
+                return RedirectToAction("Login", "Registro");
+            }
 
-            //obtener el prod q quiero guardar
+            // Obtener el producto desde la base de datos
             var producto = await _productService.GetByIdAsync(productId);
+            if (producto == null)
+            {
+                TempData["message"] = "El producto no existe o fue eliminado.";
+                return RedirectToAction("Index");
+            }
 
-            var carrito = HttpContext.Session.Get<List<CarritoVm>>("Carrito") ?? new List<CarritoVm>();
-            if(carrito.Find(x => x.ProductoId == productId)== null)
+            // Crear clave de sesión única por usuario
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var sessionKey = $"Carrito_{userId}";
+
+            // Obtener el carrito actual o crear uno nuevo
+            var carrito = HttpContext.Session.Get<List<CarritoVm>>(sessionKey) ?? new List<CarritoVm>();
+
+            // Buscar si el producto ya está en el carrito
+            var existingProduct = carrito.FirstOrDefault(x => x.ProductoId == productId);
+            if (existingProduct == null)
             {
                 carrito.Add(new CarritoVm
                 {
@@ -71,44 +96,124 @@ namespace MiTienda.Controllers
             }
             else
             {
-                var updateProduct = carrito.Find(x => x.ProductoId == productId);
-                updateProduct!.Cantidad += quantity;
+                existingProduct.Cantidad += quantity;
             }
 
-            HttpContext.Session.Set("Carrito", carrito);
-            ViewBag.message = "Producto agregado al Carrito";
-            return View("ProductDetalle", producto);
+            // Guardar el carrito actualizado en la sesión
+            HttpContext.Session.Set(sessionKey, carrito);
+
+            // Guardar un mensaje temporal para mostrar después del redirect
+            TempData["message"] = "Producto agregado al carrito correctamente.";
+
+            // Redirigir al detalle del producto (esto recarga el layout y el contador)
+            return RedirectToAction("ProductDetalle", new { id = productId });
         }
+
+
 
         public IActionResult ViewCarrito()
         {
-            var carrito = HttpContext.Session.Get<List<CarritoVm>>("Carrito") ?? new List<CarritoVm>();
+            if (!User.Identity!.IsAuthenticated)
+            {
+                return RedirectToAction("Login", "Registro");
+            }
+
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var sessionKey = $"Carrito_{userId}";
+
+            var carrito = HttpContext.Session.Get<List<CarritoVm>>(sessionKey) ?? new List<CarritoVm>();
             return View(carrito);
         }
 
+        //public IActionResult removeCarrito(int productId)
+        //{
+        //    if (!User.Identity!.IsAuthenticated)
+        //    {
+        //        return RedirectToAction("Login", "Registro");
+        //    }
+
+        //    var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+        //    var sessionKey = $"Carrito_{userId}";
+
+        //    var carrito = HttpContext.Session.Get<List<CarritoVm>>(sessionKey);
+        //    var producto = carrito?.FirstOrDefault(x => x.ProductoId == productId);
+
+        //    if (producto != null)
+        //    {
+        //        carrito.Remove(producto);
+        //        HttpContext.Session.Set(sessionKey, carrito);
+        //    }
+
+        //    return View("ViewCarrito", carrito);
+        //}
+
         public IActionResult removeCarrito(int productId)
         {
-            var carrito = HttpContext.Session.Get<List<CarritoVm>>("Carrito");
-            var producto = carrito.Find(x => x.ProductoId == productId);
-            carrito.Remove(producto!);
-            HttpContext.Session.Set("Carrito", carrito);
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var sessionKey = $"Carrito_{userId}";
+
+            var carrito = HttpContext.Session.Get<List<CarritoVm>>(sessionKey) ?? new List<CarritoVm>();
+
+            var producto = carrito.FirstOrDefault(x => x.ProductoId == productId);
+            if (producto != null)
+            {
+                carrito.Remove(producto);
+                HttpContext.Session.Set(sessionKey, carrito);
+            }
 
             return View("ViewCarrito", carrito);
         }
 
+
+        //[HttpPost]
+        //public async Task<IActionResult> Pagar()
+        //{
+        //    if (!User.Identity!.IsAuthenticated)
+        //    {
+        //        return RedirectToAction("Login", "Registro");
+        //    }
+
+        //    var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+        //    var sessionKey = $"Carrito_{userId}";
+
+        //    var carrito = HttpContext.Session.Get<List<CarritoVm>>(sessionKey);
+
+        //    if (carrito == null || carrito.Count == 0)
+        //    {
+        //        TempData["ErrorMessage"] = "Tu carrito está vacío.";
+        //        return RedirectToAction("ViewCarrito");
+        //    }
+
+        //    // Registrar el pedido en la base de datos
+        //    await _pedidoService.AddAsync(carrito, int.Parse(userId));
+
+        //    // Vaciar carrito después de la compra
+        //    HttpContext.Session.Remove(sessionKey);
+
+        //    return View("VentaCompletada");
+        //}
+
         [HttpPost]
         public async Task<IActionResult> Pagar()
         {
-            var carrito = HttpContext.Session.Get<List<CarritoVm>>("Carrito");
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var sessionKey = $"Carrito_{userId}";
 
-            //obtenr el id que se registr a la DB
-            var usuarioId = HttpContext.User.FindFirst(ClaimTypes.NameIdentifier)!.Value;
-            await _pedidoService.AddAsync(carrito,int.Parse(usuarioId));
+            var carrito = HttpContext.Session.Get<List<CarritoVm>>(sessionKey) ?? new List<CarritoVm>();
 
-            HttpContext.Session.Remove("Carrito");
+            if (carrito.Count == 0)
+            {
+                TempData["ErrorMessage"] = "Tu carrito está vacío.";
+                return RedirectToAction("ViewCarrito");
+            }
+
+            await _pedidoService.AddAsync(carrito, int.Parse(userId));
+
+            HttpContext.Session.Remove(sessionKey);
 
             return View("VentaCompletada");
         }
+
 
         public IActionResult VentaCompletada()
         {
