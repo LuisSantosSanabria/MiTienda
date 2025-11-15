@@ -10,10 +10,9 @@
 <table class="table table-striped">
     <thead>
         <tr>
-            <th>Datos del Pedido</th>
+            <th>Fecha del Pedido</th>
+            <th>Artículos</th>
             <th>Total</th>
-            <th>Articulos</th>
-            <th style="width:120px">Acciones</th>
         </tr>
     </thead>
     <tbody>
@@ -21,18 +20,28 @@
         {
             <tr>
                 <td>@item.PedidoDatos</td>
-                <td>@item.TotalPedido</td>
                 <td>
                     <ol class="list-group list-group-numbered">
-                        @foreach(var element in item.Articulos)
+                        @foreach (var element in item.Articulos)
                         {
                             <li class="list-group-item">
-                                @(element.NombreProducto + "+" + element.Cantidad + "x" + element.Precio)
+                                @($"{element.NombreProducto} - {element.Cantidad} x {element.Precio}")
                             </li>
                         }
                     </ol>
                 </td>
+
+                <td>@item.TotalPedido</td>
             </tr>
         }
     </tbody>
 </table>
+
+
+
+<div class="col-12 text-end mt-4">
+    <a href="/Home/Index" class="btn btn-secondary">
+        <i class="fa-solid fa-arrow-left me-2"></i> Volver al inicio
+    </a>
+</div>
+

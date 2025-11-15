@@ -45,5 +45,17 @@ namespace MiTienda.Repositories
 
             return pedidos;
         }
+
+        public async Task<IEnumerable<Pedido>> GetAllDetallesAsync()
+        {
+            var pedidos = await _dbContext.Pedido
+                .Include(x => x.Usuario)
+                .Include(x => x.Articulos)
+                    .ThenInclude(x => x.Producto)
+                .ToListAsync();
+
+            return pedidos;
+        }
+
     }
 }

@@ -43,5 +43,26 @@ namespace MiTienda.Services
 
             return pedidosVM;
         }
+
+        public async Task<List<PedidoVM>> GetAllAsync()
+        {
+            var pedidos = await _orderRepository.GetAllDetallesAsync();
+
+            var pedidosVM = pedidos.Select(x => new PedidoVM
+            {
+                PedidoDatos = x.FechaPedido.ToString("dd/MM/yyyy"),
+                TotalPedido = x.Total.ToString("C2"),
+                Articulos = x.Articulos.Select(a => new ArticulosVm
+                {
+                    NombreProducto = a.Producto.Nombre,
+                    Cantidad = a.Cantidad,
+                    Precio = a.Precio.ToString("C2")
+                }).ToList(),
+                UsuarioEmail = x.Usuario.Email
+            }).ToList();
+
+            return pedidosVM;
+        }
+
     }
 }
