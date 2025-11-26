@@ -7,6 +7,7 @@ using System.Security.Claims;
 namespace MiTienda.Controllers
 {
     [Authorize]
+    [ResponseCache(NoStore = true, Location = ResponseCacheLocation.None)]
     public class UsuarioController (PedidoService _pedidoService) : Controller
     {
         public async Task<IActionResult> MiPedido()

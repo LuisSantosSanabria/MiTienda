@@ -1,91 +1,179 @@
-﻿@model CatalogoVM;
+﻿@model CatalogoVM
 @{
     ViewData["Title"] = "Home Page";
 }
 
+<!-- ====== HERO / BANNER PRINCIPAL ====== -->
+<div class="container-fluid py-3 bg-light text-dark text-center">
+    <!-- Logo y texto juntos -->
+    <div class="d-flex align-items-center justify-content-center mb-3">
+
+        <div class="text-center">
+            <h1 class="h2 fw-bold mb-1">Bienvenido a MiSonido</h1>
+            <p class="lead mb-2">Los mejores parlantes, auriculares y equipos de sonido al mejor precio</p>
+        </div>
+    </div>
+
+    <!-- Botón debajo -->
+    <a href="#productos" class="btn btn-outline-dark btn-md mt-3">Ver Productos</a>
+</div>
+
+
+<!-- ====== SECCION DE BUSQUEDA Y CATEGORIAS ====== -->
 <div class="row p-5 bg-light mt-4">
-    <div class="col-sm-12 col-md-3 col-lg-3">
+@*     <div class="col-md-3">
         <div class="d-grid">
             <button type="button" class="btn btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal">
                 Categorias
             </button>
         </div>
-
-    </div>
-
-    <div class="col-sm-12 col-md-9 col-lg-9">
+    </div> *@
+@*     <div class="col-md-12">
         <form action="/Home/FilterByBuscar" method="post">
             <div class="input-group">
-                <input type="text" class="form-control" name="value" autocomplete="off" placeholder="Que estas Buscando?" />
+                <input type="text" class="form-control" name="value" autocomplete="off" placeholder="Qué estás buscando?" />
                 <button class="btn btn-outline-secondary" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
             </div>
-            </form>
-
+        </form>
     </div>
+</div> *@
 
-    @if(Model.filterBy != "" && Model.filterBy != null)
+<!-- ====== FILTRO ACTIVO ====== -->
+@if (!string.IsNullOrEmpty(Model.filterBy))
+{
+    <div class="row bg-light p-2 mt-2">
+        <div class="col-12">
+            <strong>Filtrando por:</strong> @Model.filterBy
+        </div>
+    </div>
+}
+
+<!-- ====== LISTADO DE PRODUCTOS ====== -->
+<div id="productos" class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4 py-4">
+    @foreach (var p in Model.Producto)
     {
-        <div class="row bg-light p-2 mt-2">
-            <div class="col-sm12">
-                @Model.filterBy
+        <div class="col">
+            <div class="card shadow-sm">
+                <img class="card-img-top" src="~/images/@p.ImgNombre" alt="@p.Nombre" />
+                <div class="card-body p-4">
+                    <div class="text-center">
+                        <h5 class="fw-bolder">@p.Nombre</h5>
+                        @p.Precio.ToString("C2")
+                    </div>
+                </div>
+                <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                    <div class="text-center">
+                        <a class="btn btn-outline-dark mt-auto" href="/Home/ProductDetalle?id=@p.ProdcutoId" role="button">Ver Detalles</a>
+                    </div>
+                </div>
             </div>
         </div>
     }
+</div>
 
-    <!--Lista de prodcutos-->
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4 py-4">
-        @foreach (var p in Model.Producto)
-        {
-            <div class="col">
-                <div class="card shadow-sm">
-                    <img class="card-img-top" src="~/images/@p.ImgNombre" alt="..."/>
-                    <div class="card-body p-4">
-                        <div class="text-center">
-                            <h5 class="fw-bolder">@p.Nombre</h5>
-                            @p.Precio.ToString("C2")
-                        </div>
-                    </div>
-                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                        <div class="text-center">
-                            <a class="btn btn-outline-dark mt-auto" href="/Home/ProductDetalle?id=@p.ProdcutoId" role="button">Ver Detalles</a>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        }
+<!-- ====== SOBRE NOSOTROS ====== -->
+    <div class="row bg-light p-5 mt-4" id="Nosotros">
+        <div class="col-md-6">
+            <img src="~/images/azul2.png" class="img-fluid rounded" alt="Sobre Nosotros" />
+        </div>
+        <div class="col-md-6 d-flex flex-column justify-content-center">
+            <h2>Sobre Nosotros</h2>
+            <p class="lead mt-3">
+                En MiSonido nos dedicamos a ofrecer los mejores parlantes, auriculares y equipos de sonido al mejor precio.
+                Nuestro objetivo es brindar productos de calidad con un servicio excepcional, asegurando la satisfacción de nuestros clientes.
+            </p>
+        </div>
     </div>
 
-    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="exampleModalLabel">Categorias</h1>
-                    @* <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> *@
-                </div>
-                <div class="modal-body">
-                    <div class="row row-cols-2 g-2">
+
+<!-- ====== BENEFICIOS ====== -->
+<div class="row text-center p-5">
+    <div class="col-12 mb-4"><h2>Por qué elegirnos</h2></div>
+    <div class="col-md-4 mb-3">
+        <i class="fa-solid fa-truck fa-2x mb-2"></i>
+        <h5>Envío Gratis</h5>
+        <p>En compra mayorista</p>
+    </div>
+    <div class="col-md-4 mb-3">
+        <i class="fa-solid fa-shield-halved fa-2x mb-2"></i>
+        <h5>Garantía</h5>
+        <p>Todos nuestros productos cuentan con 1 año de garantía</p>
+    </div>
+    <div class="col-md-4 mb-3">
+        <i class="fa-solid fa-headset fa-2x mb-2"></i>
+        <h5>Soporte 24/7</h5>
+        <p>Atención inmediata para resolver tus dudas</p>
+    </div>
+</div>
+
+<!-- ====== TESTIMONIOS ====== -->
+<div class="row bg-light p-5">
+    <div class="col-12 text-center mb-4">
+        <h2>Qué dicen nuestros clientes</h2>
+    </div>
+    <div class="col-md-4 mb-3">
+        <div class="card p-3 h-100 shadow-sm">
+            <p>"Excelente calidad de sonido y envío rápido. Muy recomendable."</p>
+            <small class="text-muted">- Juan P.</small>
+        </div>
+    </div>
+    <div class="col-md-4 mb-3">
+        <div class="card p-3 h-100 shadow-sm">
+            <p>"Muy buena atención y los productos cumplen lo que prometen."</p>
+            <small class="text-muted">- María G.</small>
+        </div>
+    </div>
+    <div class="col-md-4 mb-3">
+        <div class="card p-3 h-100 shadow-sm">
+            <p>"Gran variedad de productos y precios competitivos."</p>
+            <small class="text-muted">- Luis S.</small>
+        </div>
+    </div>
+</div>
+
+<!-- ====== CONTACTO / REDES SOCIALES ====== -->
+<div class="row p-5 text-center">
+    <div class="col-12 mb-3">
+        <h2>Contacto</h2>
+        <p>Seguinos en nuestras redes sociales o escribinos directamente</p>
+        <p>
+            <a href="#" class="me-2"><i class="fa-brands fa-facebook fa-2x"></i></a>
+            <a href="#" class="me-2"><i class="fa-brands fa-instagram fa-2x"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter fa-2x"></i></a>
+        </p>
+        <p>Email: contacto@misonido.com | Tel: +54 9 11 1234-5678</p>
+    </div>
+</div>
+
+<!-- ====== MODAL DE CATEGORIAS ====== -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Categorias</h1>
+            </div>
+            <div class="modal-body">
+                <div class="row row-cols-2 g-2">
+                    <div class="col d-grid">
+                        <a class="btn btn-outline-dark"
+                           asp-controller="Home" asp-action="FilterByCategory"
+                           asp-route-id="0"
+                           asp-route-name="Todas las Categorias">Todas las Categorias</a>
+                    </div>
+                    @foreach (var categoria in Model.Categorias)
+                    {
                         <div class="col d-grid">
                             <a class="btn btn-outline-dark"
                                asp-controller="Home" asp-action="FilterByCategory"
-                               asp-route-id="0"
-                               asp-route-name="Todas las Categorias">Todas las Categorias</a>
+                               asp-route-id="@categoria.CategoriaId"
+                               asp-route-name="@categoria.Nombre">@categoria.Nombre</a>
                         </div>
-                        @foreach (var categoria in Model.Categorias)
-                        {
-                            <div class="col d-grid">
-                                <a class="btn btn-outline-dark"
-                                   asp-controller="Home" asp-action="FilterByCategory"
-                                asp-route-id="@categoria.CategoriaId"
-                                asp-route-name="@categoria.Nombre">@categoria.Nombre</a>
-                            </div>
-                        }
-                    </div>
-
+                    }
                 </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
             </div>
         </div>
     </div>
+</div>

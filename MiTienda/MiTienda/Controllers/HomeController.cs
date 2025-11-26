@@ -8,6 +8,7 @@ using MiTienda.Utilities;
 
 namespace MiTienda.Controllers
 {
+    [ResponseCache(NoStore = true, Location = ResponseCacheLocation.None)]
     public class HomeController(
         CategoriaService _categoriaService,
         ProductService _productService,
@@ -110,7 +111,7 @@ namespace MiTienda.Controllers
         }
 
 
-
+        [ResponseCache(NoStore = true, Location = ResponseCacheLocation.None)]
         public IActionResult ViewCarrito()
         {
             if (!User.Identity!.IsAuthenticated)
@@ -147,6 +148,7 @@ namespace MiTienda.Controllers
         //    return View("ViewCarrito", carrito);
         //}
 
+        [ResponseCache(NoStore = true, Location = ResponseCacheLocation.None)]
         public IActionResult removeCarrito(int productId)
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
@@ -193,6 +195,8 @@ namespace MiTienda.Controllers
         //    return View("VentaCompletada");
         //}
 
+
+        [ResponseCache(NoStore = true, Location = ResponseCacheLocation.None)]
         [HttpPost]
         public async Task<IActionResult> Pagar()
         {

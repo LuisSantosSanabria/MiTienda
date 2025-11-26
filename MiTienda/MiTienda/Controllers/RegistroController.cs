@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Authentication;
 
 namespace MiTienda.Controllers
 {
+    [ResponseCache(NoStore = true, Location = ResponseCacheLocation.None)]
     public class RegistroController(UsuarioService _usuarioService) : Controller
     {
         public IActionResult Login()

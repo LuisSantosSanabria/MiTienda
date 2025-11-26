@@ -13,20 +13,52 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\1cddf594-aa83-4a37-9921-5540cbdfd822.png",
+      "PackagePath": "staticwebassets\\images\\1cddf594-aa83-4a37-9921-5540cbdfd822.png"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\5e242a1f-b09d-4448-8b0e-6267fb83e561.png",
+      "PackagePath": "staticwebassets\\images\\5e242a1f-b09d-4448-8b0e-6267fb83e561.png"
+    },
+    {
       "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\65f206e8-9325-407d-bf4e-1b3ba3957da7.png",
       "PackagePath": "staticwebassets\\images\\65f206e8-9325-407d-bf4e-1b3ba3957da7.png"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\9c3b5aac-9020-481c-91dc-c3e3c753ad7b.png",
+      "PackagePath": "staticwebassets\\images\\9c3b5aac-9020-481c-91dc-c3e3c753ad7b.png"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\azul2.png",
+      "PackagePath": "staticwebassets\\images\\azul2.png"
     },
     {
       "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
       "PackagePath": "staticwebassets\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg"
     },
     {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\ca5cbb39-9170-451a-b836-0dafad5cc64e.png",
+      "PackagePath": "staticwebassets\\images\\ca5cbb39-9170-451a-b836-0dafad5cc64e.png"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\cd9e5da6-7d62-4b46-bfb3-525e4a120bc8.png",
+      "PackagePath": "staticwebassets\\images\\cd9e5da6-7d62-4b46-bfb3-525e4a120bc8.png"
+    },
+    {
       "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\d83010a4-55b3-4323-a628-cbc952e6486f.png",
       "PackagePath": "staticwebassets\\images\\d83010a4-55b3-4323-a628-cbc952e6486f.png"
     },
     {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\ec708645-9d8c-49c6-b298-b8d12309c9f3.png",
+      "PackagePath": "staticwebassets\\images\\ec708645-9d8c-49c6-b298-b8d12309c9f3.png"
+    },
+    {
       "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\fd12a5c2-1451-4bc8-8dc7-f54a9ce6df42.png",
       "PackagePath": "staticwebassets\\images\\fd12a5c2-1451-4bc8-8dc7-f54a9ce6df42.png"
+    },
+    {
+      "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\sonido.svg",
+      "PackagePath": "staticwebassets\\images\\sonido.svg"
     },
     {
       "Id": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\js\\site.js",

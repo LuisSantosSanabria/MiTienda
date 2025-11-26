@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JvSV9ghzrVCuDdm8woNmUhbzLWZImE1Ah3iwxmfuCFU=",
+  "Hash": "tqAsqAElIKLt++bK0ntva7YYgkSuf2WLNAkflxF43fQ=",
   "Source": "MiTienda",
   "BasePath": "_content/MiTienda",
   "Mode": "Default",
@@ -1023,6 +1023,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\lib\\summernote\\dist\\summernote-bs5.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hlnoxjde28-plfgclijej.gz",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/sonido#[.{fingerprint=plfgclijej}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\sonido.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vmr3a11whk",
+      "Integrity": "p6xV3clwd+1JCf+gmPSvPk+NHk5mtdvLAoj2lGGD3Ho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\sonido.svg"
     },
     {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\is5kv1it2h-kbrnm935zg.gz",
@@ -2474,6 +2495,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\1cddf594-aa83-4a37-9921-5540cbdfd822.png",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/1cddf594-aa83-4a37-9921-5540cbdfd822#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q0osmnslv2",
+      "Integrity": "mvr0RAmtuh0+Y7JbItFRq+dzuqHX2q9GeSl0EHUVV8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1cddf594-aa83-4a37-9921-5540cbdfd822.png"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\5e242a1f-b09d-4448-8b0e-6267fb83e561.png",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/5e242a1f-b09d-4448-8b0e-6267fb83e561#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "950pk72e6b",
+      "Integrity": "/XzULVhc3nczIINpNOfN4wZR5Yr3TW86ots7aWsjZGI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5e242a1f-b09d-4448-8b0e-6267fb83e561.png"
+    },
+    {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\65f206e8-9325-407d-bf4e-1b3ba3957da7.png",
       "SourceId": "MiTienda",
       "SourceType": "Discovered",
@@ -2493,6 +2556,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\65f206e8-9325-407d-bf4e-1b3ba3957da7.png"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\9c3b5aac-9020-481c-91dc-c3e3c753ad7b.png",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/9c3b5aac-9020-481c-91dc-c3e3c753ad7b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fv39pvt8wp",
+      "Integrity": "JR9koDvnn8PZ8xx6FoJRqOq7nYxSd2X5Pu6vnN3HMpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9c3b5aac-9020-481c-91dc-c3e3c753ad7b.png"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\azul2.png",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/azul2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6wntxxj89u",
+      "Integrity": "NjMjS9KBsNIOd08ejutw80ErA7Z7gisUCa3tFnYpSeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\azul2.png"
     },
     {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg",
@@ -2516,6 +2621,48 @@
       "OriginalItemSpec": "wwwroot\\images\\b9c08bab-ed40-4bc3-a6b6-4529dadc6ade.jpg"
     },
     {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\ca5cbb39-9170-451a-b836-0dafad5cc64e.png",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/ca5cbb39-9170-451a-b836-0dafad5cc64e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l48v5arjlm",
+      "Integrity": "G8i8SQQ3Z1qtW13VvvLnKeGKC72+zEp4hXluHVvrL1I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ca5cbb39-9170-451a-b836-0dafad5cc64e.png"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\cd9e5da6-7d62-4b46-bfb3-525e4a120bc8.png",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/cd9e5da6-7d62-4b46-bfb3-525e4a120bc8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "se3xdcihvf",
+      "Integrity": "fDMf61J9fB3qmURhBZuvd94nTywyS1aaVNhVypCRvlw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cd9e5da6-7d62-4b46-bfb3-525e4a120bc8.png"
+    },
+    {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\d83010a4-55b3-4323-a628-cbc952e6486f.png",
       "SourceId": "MiTienda",
       "SourceType": "Discovered",
@@ -2537,6 +2684,27 @@
       "OriginalItemSpec": "wwwroot\\images\\d83010a4-55b3-4323-a628-cbc952e6486f.png"
     },
     {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\ec708645-9d8c-49c6-b298-b8d12309c9f3.png",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/ec708645-9d8c-49c6-b298-b8d12309c9f3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w6srp00428",
+      "Integrity": "iH/A7x//tLmjj7I5PMRLWdMBBYrZp64HzCvZKJrmRWc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ec708645-9d8c-49c6-b298-b8d12309c9f3.png"
+    },
+    {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\fd12a5c2-1451-4bc8-8dc7-f54a9ce6df42.png",
       "SourceId": "MiTienda",
       "SourceType": "Discovered",
@@ -2556,6 +2724,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\fd12a5c2-1451-4bc8-8dc7-f54a9ce6df42.png"
+    },
+    {
+      "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\sonido.svg",
+      "SourceId": "MiTienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\",
+      "BasePath": "_content/MiTienda",
+      "RelativePath": "images/sonido#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "plfgclijej",
+      "Integrity": "A205tVgoYo6D0/XuM9PZvEigdBRxPf85ygZ8VdnUT7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sonido.svg"
     },
     {
       "Identity": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\js\\site.js",
@@ -5188,7 +5377,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 23:22:06 GMT"
+          "Value": "Fri, 21 Nov 2025 02:16:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5249,7 +5438,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 23:22:06 GMT"
+          "Value": "Fri, 21 Nov 2025 02:16:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5294,7 +5483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 23:22:06 GMT"
+          "Value": "Fri, 21 Nov 2025 02:16:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5349,7 +5538,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 23:22:06 GMT"
+          "Value": "Fri, 21 Nov 2025 02:16:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5402,7 +5591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 23:22:06 GMT"
+          "Value": "Fri, 21 Nov 2025 02:16:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5439,7 +5628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 23:22:06 GMT"
+          "Value": "Fri, 21 Nov 2025 02:16:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5760,6 +5949,170 @@
       ]
     },
     {
+      "Route": "images/1cddf594-aa83-4a37-9921-5540cbdfd822.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\1cddf594-aa83-4a37-9921-5540cbdfd822.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mvr0RAmtuh0+Y7JbItFRq+dzuqHX2q9GeSl0EHUVV8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:47:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mvr0RAmtuh0+Y7JbItFRq+dzuqHX2q9GeSl0EHUVV8I="
+        }
+      ]
+    },
+    {
+      "Route": "images/1cddf594-aa83-4a37-9921-5540cbdfd822.q0osmnslv2.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\1cddf594-aa83-4a37-9921-5540cbdfd822.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mvr0RAmtuh0+Y7JbItFRq+dzuqHX2q9GeSl0EHUVV8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:47:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q0osmnslv2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1cddf594-aa83-4a37-9921-5540cbdfd822.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mvr0RAmtuh0+Y7JbItFRq+dzuqHX2q9GeSl0EHUVV8I="
+        }
+      ]
+    },
+    {
+      "Route": "images/5e242a1f-b09d-4448-8b0e-6267fb83e561.950pk72e6b.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\5e242a1f-b09d-4448-8b0e-6267fb83e561.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "242430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/XzULVhc3nczIINpNOfN4wZR5Yr3TW86ots7aWsjZGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:44:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "950pk72e6b"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5e242a1f-b09d-4448-8b0e-6267fb83e561.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/XzULVhc3nczIINpNOfN4wZR5Yr3TW86ots7aWsjZGI="
+        }
+      ]
+    },
+    {
+      "Route": "images/5e242a1f-b09d-4448-8b0e-6267fb83e561.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\5e242a1f-b09d-4448-8b0e-6267fb83e561.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "242430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/XzULVhc3nczIINpNOfN4wZR5Yr3TW86ots7aWsjZGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:44:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/XzULVhc3nczIINpNOfN4wZR5Yr3TW86ots7aWsjZGI="
+        }
+      ]
+    },
+    {
       "Route": "images/65f206e8-9325-407d-bf4e-1b3ba3957da7.l09l9l10j7.png",
       "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\65f206e8-9325-407d-bf4e-1b3ba3957da7.png",
       "Selectors": [],
@@ -5838,6 +6191,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-G7IcUAq3Re7HIym2hKALKp+GMFHcb/cJIDv6I/A73oY="
+        }
+      ]
+    },
+    {
+      "Route": "images/9c3b5aac-9020-481c-91dc-c3e3c753ad7b.fv39pvt8wp.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\9c3b5aac-9020-481c-91dc-c3e3c753ad7b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JR9koDvnn8PZ8xx6FoJRqOq7nYxSd2X5Pu6vnN3HMpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:48:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fv39pvt8wp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9c3b5aac-9020-481c-91dc-c3e3c753ad7b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JR9koDvnn8PZ8xx6FoJRqOq7nYxSd2X5Pu6vnN3HMpA="
+        }
+      ]
+    },
+    {
+      "Route": "images/9c3b5aac-9020-481c-91dc-c3e3c753ad7b.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\9c3b5aac-9020-481c-91dc-c3e3c753ad7b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311900"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JR9koDvnn8PZ8xx6FoJRqOq7nYxSd2X5Pu6vnN3HMpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:48:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JR9koDvnn8PZ8xx6FoJRqOq7nYxSd2X5Pu6vnN3HMpA="
+        }
+      ]
+    },
+    {
+      "Route": "images/azul2.6wntxxj89u.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\azul2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NjMjS9KBsNIOd08ejutw80ErA7Z7gisUCa3tFnYpSeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 00:47:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6wntxxj89u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/azul2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NjMjS9KBsNIOd08ejutw80ErA7Z7gisUCa3tFnYpSeM="
+        }
+      ]
+    },
+    {
+      "Route": "images/azul2.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\azul2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "166465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NjMjS9KBsNIOd08ejutw80ErA7Z7gisUCa3tFnYpSeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 00:47:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NjMjS9KBsNIOd08ejutw80ErA7Z7gisUCa3tFnYpSeM="
         }
       ]
     },
@@ -5924,6 +6441,170 @@
       ]
     },
     {
+      "Route": "images/ca5cbb39-9170-451a-b836-0dafad5cc64e.l48v5arjlm.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\ca5cbb39-9170-451a-b836-0dafad5cc64e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G8i8SQQ3Z1qtW13VvvLnKeGKC72+zEp4hXluHVvrL1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:45:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l48v5arjlm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ca5cbb39-9170-451a-b836-0dafad5cc64e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G8i8SQQ3Z1qtW13VvvLnKeGKC72+zEp4hXluHVvrL1I="
+        }
+      ]
+    },
+    {
+      "Route": "images/ca5cbb39-9170-451a-b836-0dafad5cc64e.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\ca5cbb39-9170-451a-b836-0dafad5cc64e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G8i8SQQ3Z1qtW13VvvLnKeGKC72+zEp4hXluHVvrL1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:45:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G8i8SQQ3Z1qtW13VvvLnKeGKC72+zEp4hXluHVvrL1I="
+        }
+      ]
+    },
+    {
+      "Route": "images/cd9e5da6-7d62-4b46-bfb3-525e4a120bc8.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\cd9e5da6-7d62-4b46-bfb3-525e4a120bc8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fDMf61J9fB3qmURhBZuvd94nTywyS1aaVNhVypCRvlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fDMf61J9fB3qmURhBZuvd94nTywyS1aaVNhVypCRvlw="
+        }
+      ]
+    },
+    {
+      "Route": "images/cd9e5da6-7d62-4b46-bfb3-525e4a120bc8.se3xdcihvf.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\cd9e5da6-7d62-4b46-bfb3-525e4a120bc8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fDMf61J9fB3qmURhBZuvd94nTywyS1aaVNhVypCRvlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "se3xdcihvf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cd9e5da6-7d62-4b46-bfb3-525e4a120bc8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fDMf61J9fB3qmURhBZuvd94nTywyS1aaVNhVypCRvlw="
+        }
+      ]
+    },
+    {
       "Route": "images/d83010a4-55b3-4323-a628-cbc952e6486f.png",
       "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\d83010a4-55b3-4323-a628-cbc952e6486f.png",
       "Selectors": [],
@@ -5998,6 +6679,88 @@
         {
           "Name": "label",
           "Value": "images/d83010a4-55b3-4323-a628-cbc952e6486f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iH/A7x//tLmjj7I5PMRLWdMBBYrZp64HzCvZKJrmRWc="
+        }
+      ]
+    },
+    {
+      "Route": "images/ec708645-9d8c-49c6-b298-b8d12309c9f3.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\ec708645-9d8c-49c6-b298-b8d12309c9f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iH/A7x//tLmjj7I5PMRLWdMBBYrZp64HzCvZKJrmRWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:46:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iH/A7x//tLmjj7I5PMRLWdMBBYrZp64HzCvZKJrmRWc="
+        }
+      ]
+    },
+    {
+      "Route": "images/ec708645-9d8c-49c6-b298-b8d12309c9f3.w6srp00428.png",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\ec708645-9d8c-49c6-b298-b8d12309c9f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iH/A7x//tLmjj7I5PMRLWdMBBYrZp64HzCvZKJrmRWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 01:46:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w6srp00428"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ec708645-9d8c-49c6-b298-b8d12309c9f3.png"
         },
         {
           "Name": "integrity",
@@ -6084,6 +6847,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-MFv6rou3pp6q9Lr624rpo0Fkhe8DmRMoUCEFmtBPZVg="
+        }
+      ]
+    },
+    {
+      "Route": "images/sonido.plfgclijej.svg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hlnoxjde28-plfgclijej.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000375798572"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2660"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6xV3clwd+1JCf+gmPSvPk+NHk5mtdvLAoj2lGGD3Ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Nov 2025 02:11:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A205tVgoYo6D0/XuM9PZvEigdBRxPf85ygZ8VdnUT7I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "plfgclijej"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sonido.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A205tVgoYo6D0/XuM9PZvEigdBRxPf85ygZ8VdnUT7I="
+        }
+      ]
+    },
+    {
+      "Route": "images/sonido.plfgclijej.svg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\sonido.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A205tVgoYo6D0/XuM9PZvEigdBRxPf85ygZ8VdnUT7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Nov 2025 02:11:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "plfgclijej"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sonido.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A205tVgoYo6D0/XuM9PZvEigdBRxPf85ygZ8VdnUT7I="
+        }
+      ]
+    },
+    {
+      "Route": "images/sonido.plfgclijej.svg.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hlnoxjde28-plfgclijej.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6xV3clwd+1JCf+gmPSvPk+NHk5mtdvLAoj2lGGD3Ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Nov 2025 02:11:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "plfgclijej"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sonido.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p6xV3clwd+1JCf+gmPSvPk+NHk5mtdvLAoj2lGGD3Ho="
+        }
+      ]
+    },
+    {
+      "Route": "images/sonido.svg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hlnoxjde28-plfgclijej.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000375798572"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2660"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6xV3clwd+1JCf+gmPSvPk+NHk5mtdvLAoj2lGGD3Ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Nov 2025 02:11:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"A205tVgoYo6D0/XuM9PZvEigdBRxPf85ygZ8VdnUT7I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A205tVgoYo6D0/XuM9PZvEigdBRxPf85ygZ8VdnUT7I="
+        }
+      ]
+    },
+    {
+      "Route": "images/sonido.svg",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\wwwroot\\images\\sonido.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A205tVgoYo6D0/XuM9PZvEigdBRxPf85ygZ8VdnUT7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Nov 2025 02:11:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A205tVgoYo6D0/XuM9PZvEigdBRxPf85ygZ8VdnUT7I="
+        }
+      ]
+    },
+    {
+      "Route": "images/sonido.svg.gz",
+      "AssetFile": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\obj\\Debug\\net9.0\\compressed\\hlnoxjde28-plfgclijej.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p6xV3clwd+1JCf+gmPSvPk+NHk5mtdvLAoj2lGGD3Ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Nov 2025 02:11:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p6xV3clwd+1JCf+gmPSvPk+NHk5mtdvLAoj2lGGD3Ho="
         }
       ]
     },

@@ -18,7 +18,14 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MiTienda</a>
+                <a class="navbar-brand d-flex align-items-center"
+                   asp-area="" asp-controller="Home" asp-action="Index"
+                   style="font-weight: 600; font-size: 1.3rem;">
+
+                    <img src="~/images/sonido.svg" alt="MiSonido Logo" style="height: 80px; width: auto;">
+                </a>
+
+
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                         aria-controls="navbarSupportedContent"
@@ -27,11 +34,54 @@
                 </button>
 
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+@*                     <ul class="navbar-nav flex-grow-1">
                         <!-- Inicio -->
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-controller="Home" asp-action="Index">Inicio</a>
                         </li>
+                        <li class="nav-item"> <a class="nav-link text-dark" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Categorías</a> </li> *@
+
+                    @{
+                        var controller = ViewContext.RouteData.Values["controller"]?.ToString();
+                        var action = ViewContext.RouteData.Values["action"]?.ToString();
+                    }
+
+                    <ul class="navbar-nav flex-grow-1">
+                        <!-- Inicio siempre visible -->
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+
+
+                        <!-- Mostrar Categorías solo en la página de inicio -->
+                        @if (controller == "Home" && action == "Index")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Categorías</a>
+                            </li>
+                        }
+
+                        @if (controller == "Home" && action == "Index")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" href="#Nosotros">Nosotros</a>
+                            </li>
+                        }
+
+                        <!-- BUSCADOR EN NAVBAR -->
+                        <li class="nav-item ms-6 d-flex align-items-center flex-grow-1 me-3">
+                            <form action="/Home/FilterByBuscar" method="post" class="w-100">
+                                <div class="input-group w-100">
+                                    <input type="text" class="form-control" name="value" autocomplete="off" placeholder="Qué estás buscando?" />
+                                    <button class="btn btn-outline-secondary" type="submit">
+                                        <i class="fa-solid fa-magnifying-glass"></i>
+                                    </button>
+                                </div>
+                            </form>
+                        </li>
+
+
+
 
                         <!-- Si el usuario está autenticado -->
                         @if (User.Identity!.IsAuthenticated)
@@ -80,12 +130,16 @@
                         else
                         {
                             <!-- Usuario no autenticado -->
-                            <li class="nav-item ms-2">
-                                <a class="nav-link text-dark d-flex flex-column align-items-center" href="/Registro/Login" style="line-height: 1.2;">
-                                    <i class="fa-solid fa-right-to-bracket mb-1"></i>
+                            <li class="nav-item ms-2 ms-md-auto">
+                                <a class="nav-link px-3 py-2 rounded-3 border border-dark text-dark"
+                                   href="/Registro/Login"
+                                   style="transition: 0.2s;">
+                                    <i class="fa-solid fa-right-to-bracket me-2"></i>
                                     Iniciar Sesión
                                 </a>
                             </li>
+
+
                         }
                     </ul>
                 </div>
@@ -102,11 +156,12 @@
 
     <!-- Footer -->
     <footer class="border-top footer text-muted">
-        <div class="container">
+        <div class="container text-center">
             &copy; 2025 - MiTienda -
             <a asp-area="" asp-controller="Home" asp-action="Privacy">Proyecto Final</a>
         </div>
     </footer>
+
 
     <!-- Scripts -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\usuario\\mipedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\usuario\\mipedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\admin\\historialpedidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\admin\\historialpedidos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|c:\\users\\canelo\\desktop\\tpfinal\\mitienda\\mitienda\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68E7B2D-8415-4613-AA3B-25D64CB4689D}|MiTienda\\MiTienda.csproj|solutionrelative:mitienda\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MiTienda\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MiTienda\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAB2AAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T01:36:24.376Z",
+              "WhenOpened": "2025-11-26T01:37:56.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Categoria\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiTienda\\Views\\Categoria\\Index.cshtml",
-              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Categoria\\Index.cshtml",
-              "RelativeToolTip": "MiTienda\\Views\\Categoria\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiTienda\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiTienda\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEIAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T01:31:14.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Producto\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiTienda\\Views\\Producto\\Index.cshtml",
-              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Producto\\Index.cshtml",
-              "RelativeToolTip": "MiTienda\\Views\\Producto\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T01:28:48.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "MiTienda\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "MiTienda\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T00:37:07.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HistorialPedidos.cshtml",
-              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Admin\\HistorialPedidos.cshtml",
-              "RelativeDocumentMoniker": "MiTienda\\Views\\Admin\\HistorialPedidos.cshtml",
-              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Admin\\HistorialPedidos.cshtml",
-              "RelativeToolTip": "MiTienda\\Views\\Admin\\HistorialPedidos.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T00:10:15.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiTienda\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "MiTienda\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T00:05:45.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MiPedido.cshtml",
-              "DocumentMoniker": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Usuario\\MiPedido.cshtml",
-              "RelativeDocumentMoniker": "MiTienda\\Views\\Usuario\\MiPedido.cshtml",
-              "ToolTip": "C:\\Users\\canelo\\Desktop\\TpFinal\\MiTienda\\MiTienda\\Views\\Usuario\\MiPedido.cshtml",
-              "RelativeToolTip": "MiTienda\\Views\\Usuario\\MiPedido.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T23:40:36.897Z",
+              "WhenOpened": "2025-11-26T01:34:00.36Z",
               "EditorCaption": ""
             }
           ]
